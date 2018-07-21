@@ -1,0 +1,99 @@
+body,html {
+	height: 100%
+}
+
+ #home{
+	background: url("../img/backgrounds/landing.jpg");
+	height: 100%;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+#logoBig img {
+	display: block;
+	width: 20%;
+	margin:100px auto;	
+}
+
+#logoBig h1 {
+	color: #fff;
+	margin-top: -50px;
+}
+
+.col-md-12 {
+	padding: 35px;
+}
+
+.test {
+	background: #F15A29;
+	padding-bottom: 25px;
+}
+#happyHour {
+	overflow-x: hidden;
+}
+
+.foodtop img{
+	width: 100%;
+	padding: 0;
+	margin: 0 auto;
+}
+
+
+.btn-outline-info {
+	color:#F15A29;
+	border: 1px solid #F15A29;
+}
+
+#fastFood {
+	padding-top: 100px;
+}
+
+.fastFoodImage {
+	padding: 30px 0;
+	box-shadow:1px 0 10px 1px rgba(0,0,0,0.2);
+}
+
+.fastFoodImage2 {
+	width: 100%;
+	
+}
+
+.fastFoodText {
+	padding-left: 90px;
+}
+
+#generalFood {
+	background:url("../img/backgrounds/foodsBg.jpg");
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	padding:100px 80px;
+}
+
+.generalFood {
+	background:#fff;
+}
+
+.generalFoodHeader {
+	background:rgba(0,0,0,0.4);
+	border-right:1px solid rgba(0,0,0,0.1);
+	margin:0;
+}
+
+.color-weight {
+	color:#F15A29;
+}
+
+.generalFoodHeader :hover {
+	color:#F15A29;
+	background-color:#fff;
+	margin: 0;
+}
+
+
+.generalFoodImage {
+	padding-top: 30px; 
+}
+
